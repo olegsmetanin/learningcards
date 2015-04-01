@@ -1,0 +1,34 @@
+{
+    "/cards/adding": {
+        "symbol":"adding",
+        "type": "integer",
+        "date": "2015-03-17T12:49:26.733Z",
+        "title": "Introduction to adding operation",
+        "tags": ["integer", "adding", "calculations"],
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "/cards/integral": {
+        "symbol":"integral",
+        "type": "integral",
+        "date": "2015-03-17T12:49:26.733Z",
+        "title": "Introduction to integration",
+        "tags": ["integral", "calculations"],
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "/cards/english": {
+        "symbol":"english",
+        "type": "language",
+        "date": "2015-03-17T12:49:26.733Z",
+        "title": "Introduction to English",
+        "tags": ["english", "language"],
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+    "/cards/musicnotes": {
+        "symbol":"musicnotes",
+        "type": "music",
+        "date": "2015-03-17T12:49:26.733Z",
+        "title": "Introduction to musical notation",
+        "tags": ["music", "notes"],
+        "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+}
