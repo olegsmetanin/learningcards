@@ -5198,7 +5198,8 @@ body {
     padding: 4px; }
   .questions_answer {
     padding: 4px; }
-  .questions input {
+  .questions .input_wrap input {
+    width: 100%;
     outline: 0;
     border: 0;
     border-bottom: 1px solid #ccc;
